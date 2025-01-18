@@ -1,0 +1,8 @@
+pt.pkl filter=lfs diff=lfs merge=lfs -text
+books.pkl filter=lfs diff=lfs merge=lfs -text
+popular.pkl filter=lfs diff=lfs merge=lfs -text
+similarity_scores.pkl filter=lfs diff=lfs merge=lfs -text
+Books.csv filter=lfs diff=lfs merge=lfs -text
+Ratings.csv filter=lfs diff=lfs merge=lfs -text
+Users.csv filter=lfs diff=lfs merge=lfs -text
+app.py filter=lfs diff=lfs merge=lfs -text
